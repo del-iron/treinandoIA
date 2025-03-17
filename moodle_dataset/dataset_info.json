@@ -1,0 +1,59 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "pergunta": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "contexto": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "resposta": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "token_type_ids": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "offset_mapping": {
+      "feature": {
+        "feature": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "_type": "Sequence"
+      },
+      "_type": "Sequence"
+    },
+    "start_positions": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "end_positions": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

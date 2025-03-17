@@ -1,0 +1,178 @@
+[
+  {
+    "pergunta": "Como os alunos podem acessar um curso no Moodle?",
+    "resposta": "Os alunos podem acessar um curso no Moodle entrando com suas credenciais de login e navegando até a lista de cursos disponíveis, geralmente na página inicial ou no painel de controle.",
+    "contexto": "O Moodle é uma plataforma de aprendizagem que requer acesso via login. Os alunos podem acessar um curso no Moodle entrando com suas credenciais de login e navegando até a lista de cursos disponíveis, geralmente na página inicial ou no painel de controle. Após entrar no sistema, os cursos nos quais o aluno está matriculado aparecerão em destaque."
+  },
+  {
+    "pergunta": "Quais são os formatos de arquivo aceitos para a submissão de tarefas no Moodle?",
+    "resposta": "Os formatos de arquivo aceitos variam conforme a configuração do curso, mas geralmente incluem PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX, ZIP e imagens como JPG e PNG.",
+    "contexto": "O Moodle aceita diversos formatos de arquivo para entrega de tarefas. Os formatos de arquivo aceitos variam conforme a configuração do curso, mas geralmente incluem PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX, ZIP e imagens como JPG e PNG. Os professores podem restringir os tipos de arquivo permitidos nas configurações de cada tarefa específica."
+  },
+  {
+    "pergunta": "Como os alunos podem verificar se uma tarefa foi enviada com sucesso no Moodle?",
+    "resposta": "Após enviar uma tarefa, os alunos podem verificar o status na página da tarefa, onde deve aparecer uma mensagem de confirmação e o arquivo enviado.",
+    "contexto": "Verificar o envio de tarefas no Moodle é importante para garantir que o trabalho foi submetido corretamente. Após enviar uma tarefa, os alunos podem verificar o status na página da tarefa, onde deve aparecer uma mensagem de confirmação e o arquivo enviado. Além disso, muitas vezes o sistema envia um e-mail de confirmação e o status de envio também pode ser verificado no painel do aluno."
+  },
+  {
+    "pergunta": "Como os alunos podem postar e responder em fóruns de discussão no Moodle?",
+    "resposta": "Os alunos podem postar e responder em fóruns clicando no link do fórum, selecionando 'Adicionar novo tópico' para postar ou 'Responder' para comentar em uma discussão existente.",
+    "contexto": "Os fóruns de discussão são ferramentas colaborativas importantes no Moodle. Os alunos podem postar e responder em fóruns clicando no link do fórum, selecionando 'Adicionar novo tópico' para postar ou 'Responder' para comentar em uma discussão existente. Os fóruns permitem anexar arquivos, formatar texto e receber notificações de novas postagens."
+  },
+  {
+    "pergunta": "O que os alunos devem fazer em caso de problemas técnicos durante uma prova no Moodle?",
+    "resposta": "Em caso de problemas técnicos, os alunos devem contatar imediatamente o professor ou suporte técnico da instituição, informando detalhes do problema e, se possível, tirar prints ou fotos como evidência.",
+    "contexto": "Problemas técnicos podem ocorrer durante avaliações online. Em caso de problemas técnicos, os alunos devem contatar imediatamente o professor ou suporte técnico da instituição, informando detalhes do problema e, se possível, tirar prints ou fotos como evidência. É recomendável não fechar a janela do navegador e tentar acessar a plataforma de outro dispositivo enquanto aguarda assistência."
+  },
+  {
+    "pergunta": "Como os alunos podem verificar suas notas e feedback no Moodle?",
+    "resposta": "Os alunos podem verificar notas e feedback acessando a seção 'Notas' no menu do curso ou diretamente na página de cada atividade avaliada.",
+    "contexto": "O Moodle oferece ferramentas para acompanhamento do desempenho acadêmico. Os alunos podem verificar notas e feedback acessando a seção 'Notas' no menu do curso ou diretamente na página de cada atividade avaliada. O sistema também pode exibir estatísticas de desempenho e comparações com a média da turma, dependendo das configurações do curso."
+  },
+  {
+    "pergunta": "Como os alunos podem configurar notificações para acompanhar discussões em fóruns no Moodle?",
+    "resposta": "Os alunos podem configurar notificações indo em 'Preferências de notificação' no menu do usuário e selecionando como desejam ser notificados sobre novas postagens em fóruns.",
+    "contexto": "O sistema de notificações do Moodle permite acompanhar atividades nos cursos. Os alunos podem configurar notificações indo em 'Preferências de notificação' no menu do usuário e selecionando como desejam ser notificados sobre novas postagens em fóruns. As opções de notificação incluem e-mail, notificações no navegador, ou no aplicativo móvel, com diferentes frequências disponíveis."
+  },
+  {
+    "pergunta": "Como os professores podem criar e organizar seções de um curso no Moodle?",
+    "resposta": "Os professores podem criar e organizar seções ativando a edição do curso e usando as opções 'Adicionar seção' e 'Mover' para ajustar a ordem e o conteúdo das seções.",
+    "contexto": "A organização de um curso no Moodle é fundamental para a experiência de aprendizagem. Os professores podem criar e organizar seções ativando a edição do curso e usando as opções 'Adicionar seção' e 'Mover' para ajustar a ordem e o conteúdo das seções. É possível nomear cada seção, ocultar seções específicas dos alunos e definir condições para disponibilizar o conteúdo progressivamente."
+  },
+  {
+    "pergunta": "Como os professores podem adicionar tarefas e questionários no Moodle?",
+    "resposta": "Professores podem adicionar tarefas e questionários ativando a edição do curso e selecionando 'Adicionar uma atividade ou recurso', onde escolhem 'Tarefa' ou 'Questionário'.",
+    "contexto": "Tarefas e questionários são atividades avaliativas comuns no Moodle. Professores podem adicionar tarefas e questionários ativando a edição do curso e selecionando 'Adicionar uma atividade ou recurso', onde escolhem 'Tarefa' ou 'Questionário'. Cada tipo de atividade oferece configurações específicas para prazos, tentativas permitidas, feedback e critérios de avaliação."
+  },
+  {
+    "pergunta": "Como os professores configuram prazos e condições de conclusão para atividades no Moodle?",
+    "resposta": "Professores configuram prazos e condições de conclusão nas configurações de cada atividade, definindo datas de entrega e marcando opções como 'Exigir conclusão'.",
+    "contexto": "O gerenciamento de prazos é crucial para organizar o fluxo de aprendizagem. Professores configuram prazos e condições de conclusão nas configurações de cada atividade, definindo datas de entrega e marcando opções como 'Exigir conclusão'. Também é possível configurar pré-requisitos entre atividades e definir critérios específicos para considerar uma atividade como concluída."
+  },
+  {
+    "pergunta": "Como os professores podem acessar relatórios de participação e desempenho dos alunos no Moodle?",
+    "resposta": "Professores podem acessar relatórios indo em 'Relatórios' no menu do curso, onde encontram opções como 'Logs de acesso' e 'Relatórios de conclusão'.",
+    "contexto": "O Moodle oferece ferramentas de análise para acompanhar o progresso dos alunos. Professores podem acessar relatórios indo em 'Relatórios' no menu do curso, onde encontram opções como 'Logs de acesso' e 'Relatórios de conclusão'. Estes relatórios mostram dados como frequência de acesso, tempo gasto nas atividades, progresso nas tarefas e estatísticas de desempenho."
+  },
+  {
+    "pergunta": "Como os professores podem personalizar a aparência de um curso no Moodle?",
+    "resposta": "Professores podem personalizar a aparência usando temas, inserindo imagens, vídeos e ajustando o layout das seções do curso.",
+    "contexto": "A personalização visual pode melhorar a experiência de aprendizagem no Moodle. Professores podem personalizar a aparência usando temas, inserindo imagens, vídeos e ajustando o layout das seções do curso. É possível adicionar banners personalizados, escolher esquemas de cores e organizar o conteúdo em diferentes formatos como tópicos, semanal ou social."
+  },
+  {
+    "pergunta": "Como os professores podem inserir multimídia e recursos externos em um curso no Moodle?",
+    "resposta": "Professores podem inserir multimídia e recursos externos usando a opção 'Adicionar uma atividade ou recurso' e selecionando 'URL', 'Página' ou 'Arquivo'.",
+    "contexto": "Conteúdo multimídia enriquece a experiência de aprendizagem online. Professores podem inserir multimídia e recursos externos usando a opção 'Adicionar uma atividade ou recurso' e selecionando 'URL', 'Página' ou 'Arquivo'. É possível incorporar vídeos do YouTube, apresentações do SlideShare, documentos do Google Drive e outros recursos interativos usando códigos de incorporação HTML."
+  },
+  {
+    "pergunta": "Como os usuários podem recuperar a senha esquecida no Moodle?",
+    "resposta": "Usuários podem recuperar a senha clicando em 'Esqueci minha senha' na página de login e seguindo as instruções enviadas por e-mail.",
+    "contexto": "Esquecer senhas é um problema comum em plataformas educacionais. Usuários podem recuperar a senha clicando em 'Esqueci minha senha' na página de login e seguindo as instruções enviadas por e-mail. O sistema enviará um link temporário para redefinição da senha no endereço de e-mail cadastrado. Se não receber o e-mail, o usuário deve verificar a pasta de spam e contatar o suporte técnico."
+  },
+  {
+    "pergunta": "Como os usuários podem configurar notificações por e-mail no Moodle?",
+    "resposta": "Usuários podem configurar notificações por e-mail acessando 'Preferências de notificação' no menu do usuário e escolhendo as opções desejadas.",
+    "contexto": "Gerenciar notificações ajuda a manter-se informado sobre atividades importantes. Usuários podem configurar notificações por e-mail acessando 'Preferências de notificação' no menu do usuário e escolhendo as opções desejadas. As configurações permitem personalizar quais eventos geram notificações, como novas postagens em fóruns, prazos de tarefas próximos e feedback de professores."
+  },
+  {
+    "pergunta": "Como os usuários podem acessar o Moodle via aplicativo móvel?",
+    "resposta": "Usuários podem acessar o Moodle via aplicativo móvel baixando o app oficial, inserindo a URL da plataforma e fazendo login com suas credenciais.",
+    "contexto": "O acesso móvel oferece flexibilidade para estudar em qualquer lugar. Usuários podem acessar o Moodle via aplicativo móvel baixando o app oficial da loja de aplicativos (Google Play ou App Store), inserindo a URL da plataforma e fazendo login com suas credenciais. O aplicativo permite acesso offline a conteúdos baixados e sincronização automática quando conectado à internet."
+  },
+  {
+    "pergunta": "Quais funcionalidades estão disponíveis no aplicativo móvel do Moodle?",
+    "resposta": "O aplicativo móvel permite acessar cursos, participar de fóruns, enviar tarefas, realizar questionários e receber notificações, entre outras funcionalidades.",
+    "contexto": "O aplicativo móvel do Moodle oferece muitas das funcionalidades da versão web. O aplicativo móvel permite acessar cursos, participar de fóruns, enviar tarefas, realizar questionários e receber notificações, entre outras funcionalidades. O app também oferece suporte para download de conteúdo para acesso offline, upload de arquivos da galeria ou câmera e acompanhamento do calendário de atividades."
+  },
+  {
+    "pergunta": "Como os professores podem fornecer feedback aos alunos no Moodle?",
+    "resposta": "Professores podem fornecer feedback nas páginas de avaliação de tarefas e questionários, onde há campos específicos para comentários e notas.",
+    "contexto": "O feedback é essencial para o processo de aprendizagem. Professores podem fornecer feedback nas páginas de avaliação de tarefas e questionários, onde há campos específicos para comentários e notas. É possível adicionar comentários gerais, anotações específicas em arquivos PDF submetidos, enviar arquivos de resposta e gravar mensagens de áudio como feedback."
+  },
+  {
+    "pergunta": "Como os professores podem ajustar manualmente as notas no livro de notas do Moodle?",
+    "resposta": "Professores podem ajustar manualmente as notas acessando o 'Livro de notas', selecionando a atividade desejada e editando as notas diretamente na tabela.",
+    "contexto": "O gerenciamento de notas permite flexibilidade nas avaliações. Professores podem ajustar manualmente as notas acessando o 'Livro de notas', selecionando a atividade desejada e editando as notas diretamente na tabela. Também é possível aplicar fatores de ponderação, excluir a nota mais baixa, configurar categorias de notas e exportar o histórico para planilhas."
+  },
+  {
+    "pergunta": "Como os alunos podem configurar o perfil e as notificações no Moodle?",
+    "resposta": "Alunos podem configurar o perfil e as notificações acessando o menu do usuário, selecionando 'Perfil' para editar informações pessoais e 'Preferências de notificação' para ajustar alertas.",
+    "contexto": "Personalizar o perfil e configurações melhora a experiência na plataforma. Alunos podem configurar o perfil e as notificações acessando o menu do usuário, selecionando 'Perfil' para editar informações pessoais e 'Preferências de notificação' para ajustar alertas. Nas configurações de perfil, é possível adicionar foto, descrição, links de mídias sociais e ajustar configurações de privacidade."
+  },
+  {
+    "pergunta": "Como um aluno pode alterar sua própria senha no Moodle?",
+    "resposta": "Para alterar a senha no Moodle, o aluno deve fazer login, clicar no seu nome no canto superior direito da tela e selecionar 'Preferências' no menu suspenso. Na página de preferências, clique em 'Alterar senha'. Preencha o formulário com a senha atual e a nova senha (digitando-a duas vezes para confirmação). Clique em 'Salvar mudanças'. Recomenda-se usar uma senha forte com pelo menos 8 caracteres, incluindo letras maiúsculas, minúsculas, números e símbolos.",
+    "contexto": "Alterar senhas periodicamente é uma boa prática de segurança. Para alterar a senha no Moodle, o aluno deve fazer login, clicar no seu nome no canto superior direito da tela e selecionar 'Preferências' no menu suspenso. Na página de preferências, clique em 'Alterar senha'. Preencha o formulário com a senha atual e a nova senha (digitando-a duas vezes para confirmação). Clique em 'Salvar mudanças'. Recomenda-se usar uma senha forte com pelo menos 8 caracteres, incluindo letras maiúsculas, minúsculas, números e símbolos."
+  },
+  {
+    "pergunta": "Como professor, como posso ajudar um aluno que esqueceu a senha?",
+    "resposta": "Como professor, você não pode alterar senhas de alunos diretamente, mas pode orientá-los a clicar em 'Esqueceu seu nome de usuário ou senha?' na tela de login. O aluno deve inserir seu nome de usuário ou e-mail cadastrado e seguir as instruções enviadas por e-mail. Se o aluno não tiver acesso ao e-mail cadastrado, encaminhe o caso para o administrador do Moodle, fornecendo o nome completo e, se possível, o nome de usuário ou e-mail do aluno.",
+    "contexto": "Professores frequentemente precisam ajudar alunos com problemas de acesso. Como professor, você não pode alterar senhas de alunos diretamente, mas pode orientá-los a clicar em 'Esqueceu seu nome de usuário ou senha?' na tela de login. O aluno deve inserir seu nome de usuário ou e-mail cadastrado e seguir as instruções enviadas por e-mail. Se o aluno não tiver acesso ao e-mail cadastrado, encaminhe o caso para o administrador do Moodle, fornecendo o nome completo e, se possível, o nome de usuário ou e-mail do aluno."
+  },
+  {
+    "pergunta": "Como administrador, como redefinir a senha de um usuário?",
+    "resposta": "Como administrador, acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários'. Localize o usuário, clique em seu nome e selecione 'Editar perfil'. Role até o campo 'Nova senha', insira a nova senha ou clique em 'Gerar senha e notificar usuário' para enviar uma senha temporária por e-mail. Salve as alterações. O usuário poderá usar essa senha no próximo login e pode ser solicitado a alterá-la.",
+    "contexto": "Administradores têm acesso a funcionalidades avançadas de gerenciamento de usuários. Como administrador, acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários'. Localize o usuário, clique em seu nome e selecione 'Editar perfil'. Role até o campo 'Nova senha', insira a nova senha ou clique em 'Gerar senha e notificar usuário' para enviar uma senha temporária por e-mail. Salve as alterações. O usuário poderá usar essa senha no próximo login e pode ser solicitado a alterá-la."
+  },
+  {
+    "pergunta": "Como criar usuários em massa no Moodle?",
+    "resposta": "Acesse 'Administração do site > Usuários > Contas > Upload de usuários'. Prepare um arquivo CSV com os dados dos usuários (nome de usuário, senha, nome, sobrenome, e-mail). Faça o upload do arquivo, configure as opções de delimitador e codificação, e revise os dados na prévia. Clique em 'Upload usuários' para confirmar. Os usuários serão criados e podem receber e-mails automáticos com suas credenciais.",
+    "contexto": "Para grandes instituições, criar usuários individualmente é ineficiente. Acesse 'Administração do site > Usuários > Contas > Upload de usuários'. Prepare um arquivo CSV com os dados dos usuários (nome de usuário, senha, nome, sobrenome, e-mail). Faça o upload do arquivo, configure as opções de delimitador e codificação, e revise os dados na prévia. Clique em 'Upload usuários' para confirmar. Os usuários serão criados e podem receber e-mails automáticos com suas credenciais."
+  },
+  {
+    "pergunta": "Como desativar uma conta de usuário sem excluí-la?",
+    "resposta": "Acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários'. Encontre o usuário, clique no ícone de edição e marque a opção 'Suspender conta'. Salve as alterações. O usuário não poderá fazer login, mas todos os dados, como histórico de atividades e notas, permanecerão intactos. Para reativar, repita o processo e desmarque a opção.",
+    "contexto": "Às vezes é necessário desativar temporariamente uma conta sem perder dados. Acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários'. Encontre o usuário, clique no ícone de edição e marque a opção 'Suspender conta'. Salve as alterações. O usuário não poderá fazer login, mas todos os dados, como histórico de atividades e notas, permanecerão intactos. Para reativar, repita o processo e desmarque a opção."
+  },
+  {
+    "pergunta": "Como permitir que os alunos alterem sua foto de perfil?",
+    "resposta": "Verifique as permissões em 'Administração do site > Plugins > Permissões > Capacidades padrão', garantindo que 'moodle/user:editownprofile' e 'moodle/user:editownpicture' estejam ativadas. Os alunos podem alterar a foto acessando seu perfil, clicando em 'Modificar perfil' e carregando uma imagem nos formatos aceitos (JPG ou PNG). Clique em 'Atualizar perfil' para salvar.",
+    "contexto": "Fotos de perfil ajudam a personalizar a experiência dos usuários. Verifique as permissões em 'Administração do site > Plugins > Permissões > Capacidades padrão', garantindo que 'moodle/user:editownprofile' e 'moodle/user:editownpicture' estejam ativadas. Os alunos podem alterar a foto acessando seu perfil, clicando em 'Modificar perfil' e carregando uma imagem nos formatos aceitos (JPG ou PNG). Clique em 'Atualizar perfil' para salvar."
+  },
+  {
+    "pergunta": "Como configurar políticas de senha no Moodle?",
+    "resposta": "Acesse 'Administração do site > Segurança > Políticas do site'. Na seção 'Política de senhas', defina o comprimento mínimo, número de dígitos, letras maiúsculas, minúsculas e caracteres especiais. Configure também o histórico de senhas e o período de validade. Salve as alterações. As novas políticas serão aplicadas quando os usuários criarem ou alterarem suas senhas.",
+    "contexto": "Políticas de senha fortes ajudam a proteger as contas dos usuários. Acesse 'Administração do site > Segurança > Políticas do site'. Na seção 'Política de senhas', defina o comprimento mínimo, número de dígitos, letras maiúsculas, minúsculas e caracteres especiais. Configure também o histórico de senhas e o período de validade. Salve as alterações. As novas políticas serão aplicadas quando os usuários criarem ou alterarem suas senhas."
+  },
+  {
+    "pergunta": "Como criar um papel personalizado para coordenadores no Moodle?",
+    "resposta": "Acesse 'Administração do site > Usuários > Permissões > Definir papéis'. Clique em 'Adicionar novo papel', use 'Professor' como base e personalize as permissões. Defina o contexto como 'Curso' ou 'Categoria de curso'. Salve o papel e atribua-o aos coordenadores nas configurações do curso.",
+    "contexto": "Papéis personalizados permitem gerenciamento fino de permissões. Acesse 'Administração do site > Usuários > Permissões > Definir papéis'. Clique em 'Adicionar novo papel', use 'Professor' como base e personalize as permissões. Defina o contexto como 'Curso' ou 'Categoria de curso'. Salve o papel e atribua-o aos coordenadores nas configurações do curso. Coordenadores geralmente precisam ter permissões para supervisionar vários cursos sem modificar conteúdo."
+  },
+  {
+    "pergunta": "Como configurar login único (SSO) usando contas Google no Moodle?",
+    "resposta": "Habilite o plugin 'OAuth 2' em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Configure o provedor 'Google' com o ID do cliente e a chave secreta obtidos no Console de Desenvolvedores Google. Defina as opções de mapeamento de campos e salve. Os usuários verão a opção 'Login com Google' na página de login.",
+    "contexto": "O login único simplifica o acesso para usuários com múltiplas contas. Habilite o plugin 'OAuth 2' em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Configure o provedor 'Google' com o ID do cliente e a chave secreta obtidos no Console de Desenvolvedores Google. Defina as opções de mapeamento de campos e salve. Os usuários verão a opção 'Login com Google' na página de login. Esta integração facilita a autenticação e reduz problemas com senhas esquecidas."
+  },
+  {
+    "pergunta": "Como gerenciar as solicitações de recuperação de senha?",
+    "resposta": "Acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários' para modificar contas específicas. Configure o processo de recuperação em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Limite a frequência de solicitações em 'Administração do site > Segurança > Políticas do site'.",
+    "contexto": "Gerenciar recuperações de senha é importante para manter a segurança. Acesse 'Administração do site > Usuários > Contas > Navegar na lista de usuários' para modificar contas específicas. Configure o processo de recuperação em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Limite a frequência de solicitações em 'Administração do site > Segurança > Políticas do site'. Monitore tentativas de recuperação suspeitas, que podem indicar tentativas de invasão."
+  },
+  {
+    "pergunta": "Como configurar a autenticação de dois fatores (2FA) no Moodle?",
+    "resposta": "Habilite o plugin 'Autenticação de dois fatores' em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Configure as políticas e selecione os provedores de 2FA (TOTP, SMS, e-mail). Os usuários configurarão seus métodos de 2FA em suas preferências de conta.",
+    "contexto": "A autenticação de dois fatores aumenta significativamente a segurança das contas. Habilite o plugin 'Autenticação de dois fatores' em 'Administração do site > Plugins > Autenticação > Gerenciar autenticação'. Configure as políticas e selecione os provedores de 2FA (TOTP, SMS, e-mail). Os usuários configurarão seus métodos de 2FA em suas preferências de conta. É possível tornar o 2FA obrigatório para todos os usuários ou apenas para papéis específicos como administradores."
+  },
+  {
+    "pergunta": "Como vincular contas de usuários do Moodle a outros sistemas institucionais?",
+    "resposta": "Use LDAP/Active Directory ou configure o plugin OAuth 2 para integração com APIs. Para sincronização periódica, use tarefas cron com scripts personalizados. Utilize o campo 'idnumber' para armazenar IDs de sistemas externos e facilitar a correspondência.",
+    "contexto": "Integrar o Moodle com outros sistemas institucionais melhora a experiência do usuário. Use LDAP/Active Directory ou configure o plugin OAuth 2 para integração com APIs. Para sincronização periódica, use tarefas cron com scripts personalizados. Utilize o campo 'idnumber' para armazenar IDs de sistemas externos e facilitar a correspondência. A integração com sistemas de gestão acadêmica permite que informações como matrícula em disciplinas sejam sincronizadas automaticamente."
+  },
+  {
+    "pergunta": "Como gerenciar perfis duplicados de usuários no Moodle?",
+    "resposta": "Identifique duplicatas em 'Administração do site > Usuários > Contas > Procurar usuários'. Use a funcionalidade 'Mesclar usuários' para transferir dados da conta duplicada para a principal. Configure validação de e-mail e use números de matrícula únicos para prevenir duplicatas futuras.",
+    "contexto": "Perfis duplicados podem causar confusão e problemas de dados. Identifique duplicatas em 'Administração do site > Usuários > Contas > Procurar usuários'. Use a funcionalidade 'Mesclar usuários' para transferir dados da conta duplicada para a principal. Configure validação de e-mail e use números de matrícula únicos para prevenir duplicatas futuras. Após a mesclagem, verifique se todos os dados foram corretamente transferidos antes de excluir a conta duplicada."
+  },
+  {
+    "pergunta": "Como configurar notificações automáticas para senhas prestes a expirar?",
+    "resposta": "Ative a política de expiração de senhas em 'Administração do site > Segurança > Políticas do site'. Configure notificações em 'Administração do site > Mensagens > Notificações > Gerenciar tipos de notificação'. Defina a tarefa agendada 'Enviar notificações de expiração de senha' para alertar os usuários com antecedência.",
+    "contexto": "Notificações automáticas ajudam os usuários a manterem suas contas seguras, evitando que o acesso seja interrompido devido a senhas expiradas."
+  },
+	{
+    "pergunta": "Como alterar a senha no Moodle?",
+    "resposta": "Para alterar a senha, acesse 'Preferências' no menu do usuário, selecione 'Alterar senha', insira a senha atual, a nova senha e confirme a nova senha. Clique em 'Salvar mudanças'.",
+    "contexto": "A troca de senha no Moodle é essencial para manter a segurança da conta do usuário. Recomenda-se o uso de senhas fortes, com combinação de letras, números e caracteres especiais."
+  }
+ ]
+	
